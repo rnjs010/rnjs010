@@ -3,9 +3,9 @@
 -->
 
 <div align="center">
-  
+
 <!-- 해더 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome👋&desc=Kyuri's%20GitHub&fontSize=90&descSize=30&fontAlignY=38&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome👋&desc=Kyuri's%20GitHub&fontSize=90&descSize=30&fontAlignY=38&animation=fadeIn&customColorList=0,1,2,3,4,6,7,8,9,10,11,14,15,17,18,20,21,22,23,24,25,26,27,28,30" />
 
 <!-- 소개 -->
 # 🙋🏻‍♀️ About Me

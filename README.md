@@ -2,25 +2,50 @@
 **rnjs010/rnjs010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<div align="center">
+  
 <!-- 해더 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome👋&desc=Kyuri's%20GitHub&fontSize=90&descSize=30&fontAlignY=38&animation=fadeIn" />
 
 <!-- 소개 -->
-## 🙋🏻‍♀️ About Me
-
-
+# 🙋🏻‍♀️ About Me
+<!--
 ### Social
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://rnjs010.github.io/)
 </br>
 [![GEmail](https://img.shields.io/badge/Gmail-kwonmaru0119@gmail.com-EA4335?style=flat&logo=gmail)](mailto:kwonmaru0119@gmail.com)
 </br>
 [![NaverEmail](https://img.shields.io/badge/Naver-kyuri4809@naver.com-03C75A?style=flat&logo=naver)](mailto:kyuri4809@naver.com)
-<!-- </br>
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link) -->
+</br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link) 
+-->
 
+<img src="https://github.com/user-attachments/assets/e5259ebd-ee7e-49f6-b83c-22a7b5a17951" align="right" width="140" />
+
+### Social
+<a href="https://rnjs010.github.io/">
+  <img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white" alt="Blog" />
+</a>
+<br/>
+<a href="mailto:kwonmaru0119@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-kwonmaru0119@gmail.com-EA4335?style=flat&logo=gmail" alt="Gmail" />
+</a>
+<br/>
+<a href="mailto:kyuri4809@naver.com">
+  <img src="https://img.shields.io/badge/Naver-kyuri4809@naver.com-03C75A?style=flat&logo=naver" alt="Naver" />
+</a>
+<p>
+소개 글 추가하기
+</p>
+
+
+
+
+
+<br><br>
 
 <!-- 기술 스택 -->
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 ### Frontend (Main)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -59,27 +84,50 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
+<br><br>
 
 <!-- 프로젝트 -->
-## 📽️ Projects
-<a href="https://github.com/rnjs010/keywi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rnjs010&repo=keywi&theme=dark" />
-</a>
-<a href="https://github.com/rnjs010/roCatRun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rnjs010&repo=roCatRun&theme=dark" />
-</a>
-<a href="https://github.com/rnjs010/cofface">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rnjs010&repo=cofface&theme=dark" />
-</a>
-<a href="https://github.com/rnjs010/amuseClient">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rnjs010&repo=amuseClient&theme=dark" />
-</a>
+# 📽️ Projects
+<div align="center">
 
+<table>
+  <tr>
+    <td align="center" style="padding: 5px;">
+      <a href="https://github.com/rnjs010/keywi">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rnjs010&repo=keywi&theme=dark" />
+      </a>
+    </td>
+    <td align="center" style="padding: 5px;">
+      <a href="https://github.com/rnjs010/roCatRun">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rnjs010&repo=roCatRun&theme=dark" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 5px;">
+      <a href="https://github.com/rnjs010/cofface">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rnjs010&repo=cofface&theme=dark" />
+      </a>
+    </td>
+    <td align="center" style="padding: 5px;">
+      <a href="https://github.com/rnjs010/amuseClient">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rnjs010&repo=amuseClient&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br><br>
 
 <!-- 통계 -->
-## 📊 Stats
+# 📊 Stats
 [![Solved.ac-profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qwedc13)](https://solved.ac/qwedc13)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnjs010&layout=compact&theme=radical">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rnjs010&show_icons=true&count_private=true&hide=issues&theme=tokyonight">
+
+
+</div>

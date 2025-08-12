@@ -123,11 +123,22 @@
 
 <!-- 통계 -->
 # 📊 Stats
-[![Solved.ac-profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qwedc13)](https://solved.ac/qwedc13)
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnjs010&layout=compact&theme=radical">
+  <a href="https://solved.ac/qwedc13">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qwedc13" height="150">
+  </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rnjs010&show_icons=true&count_private=true&hide=issues&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnjs010&layout=compact&theme=radical" height="150">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=rnjs010&show_icons=true&count_private=true&hide=issues&theme=tokyonight" height="150">
+
+</div>
+
+
+<!-- 3d 잔디 -->
+![3d](./profile-3d-contrib/profile-gitblock.svg)
+
 
 
 </div>
